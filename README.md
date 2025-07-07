@@ -29,7 +29,7 @@ Este proyecto fue desarrollado por el equipo de consultores de **SMARTLOGIX**:
 
 - 👩‍💼 [Martha Salinas](https://github.com/MarthaSalinas)
 - 👩‍💻 Yoselin Ruano  
-- 👩 Valeria Lozano  
+- 👩 Valeria Lozano (https://github.com/valerialc)
 - 👨‍💻 [Edwin Echeverri](https://github.com/EdwinEcheverri)  
 - 👨‍🔬 [Isaac Pérez](https://github.com/IsaacManuelPerez)
 ---
