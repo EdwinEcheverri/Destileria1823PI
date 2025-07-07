@@ -27,12 +27,11 @@ Esto se logra mediante el análisis de la **demanda histórica** y la implementa
 
 Este proyecto fue desarrollado por el equipo de consultores de **SMARTLOGIX**:
 
-- 👩‍💼 Martha Salinas  
+- 👩‍💼 [Martha Salinas](https://github.com/MarthaSalinas)
 - 👩‍💻 Yoselin Ruano  
 - 👩 Valeria Lozano  
-- 👨‍💻 Edwin Echeverri  
-- 👨‍🔬 Isaac Pérez
-
+- 👨‍💻 [Edwin Echeverri](https://github.com/EdwinEcheverri)  
+- 👨‍🔬 [Isaac Pérez](https://github.com/IsaacManuelPerez)
 ---
 
 ## 🧰 Herramientas Utilizadas
